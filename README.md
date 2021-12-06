@@ -17,8 +17,3 @@ There are 3 possibilities:
 - VAC marked you for ban when you were NOT using CSGhost, but the actual ban was delayed. VAC often delays bans by as much as 2 weeks.
 - You were not VAC banned, but rather banned by overwatch or untrusted.
 - You somehow managed to break CSGhost and mess up the VAC bypass. If you fully restart Steam AFTER starting CSGhost, the VAC bypass will no longer be active and CSGhost will tell you.
-
-### Why is my trust factor red now?
-Some CSGhost users may have their trust factor decrease after using CSGhost. 
-This can be from a cheat you injected, or it can be the VAC bypass, which sometimes causes VAC to get concerned and lower your trust factor.
-Your trust factor should recover after you stop using CSGhost.
